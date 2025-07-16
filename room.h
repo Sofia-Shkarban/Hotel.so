@@ -14,5 +14,6 @@ extern Room rooms[MAX_ROOMS];
 
 void initializeRooms();
 void showRooms();
+void filterByPrice();
 
 #endif
